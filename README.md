@@ -6,10 +6,17 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=born2achieve-ui&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
-
+<!-- <p align="center">
+  <img src="https://github.com/rakeshpedapudi07/RakeshPedapudi/issues/1#issue-3303399547"alt="Coding Aggressively" width="300"/>
+</p> -->
 <!-- Coding GIF -->
 <p align="center">
   <img src="https://camo.githubusercontent.com/55eefddfca1e759761b0952c434bfd7757f7f8672fa88a4982748bb0d8e3607f/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a4578656a686c65485a336158527361575a72614739356132743663325978627a4e6f4e6a67784e325676626d553262544e68613346715a795a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d593351395a772f373858434642474f6c53366b65593142696c2f67697068792e77656270" alt="Coding Aggressively" width="300"/>
+</p>
+
+<!-- Goku GIF -->
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExODV0YmV1bXRmbzNqYm90dmU0MmV6bHczcDR1bGxscHdna21pMTVxdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/t7jzGb5JT0B2D7w771/giphy.gif" alt="Goku Powering Up" width="300"/>
 </p>
 
 ---
@@ -46,6 +53,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=born2achieve-ui&show_icons=true&theme=radical" width="400"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=born2achieve-ui&theme=radical" width="400"/>
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=born2achieve-ui&layout=compact&theme=radical" width="400"/>
