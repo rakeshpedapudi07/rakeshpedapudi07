@@ -14,11 +14,6 @@
   <img src="https://camo.githubusercontent.com/55eefddfca1e759761b0952c434bfd7757f7f8672fa88a4982748bb0d8e3607f/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a4578656a686c65485a336158527361575a72614739356132743663325978627a4e6f4e6a67784e325676626d553262544e68613346715a795a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d593351395a772f373858434642474f6c53366b65593142696c2f67697068792e77656270" alt="Coding Aggressively" width="300"/>
 </p>
 
-<!-- Goku GIF -->
-<p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExODV0YmV1bXRmbzNqYm90dmU0MmV6bHczcDR1bGxscHdna21pMTVxdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/t7jzGb5JT0B2D7w771/giphy.gif" alt="Goku Powering Up" width="300"/>
-</p>
-
 ---
 
 ### 🚀 About Me
@@ -48,15 +43,25 @@
 </p>
 
 ---
-
-### 📊 GitHub Stats
+<!-- Goku GIF -->
+<!-- Goku GIF -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=born2achieve-ui&show_icons=true&theme=radical" width="400"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=born2achieve-ui&theme=radical" width="400"/>
+  <img src="https://camo.githubusercontent.com/1fe840530ad15b45d45648d1d3c77494ab45964f1d6504dddf0f04de5cb0c190/68747470733a2f2f6d65646961302e67697068792e636f6d2f6d656469612f76312e59326c6b50574a6b4d3256684e54646c654467336233467361336435596d3431624442735932633261325670656d74304f57467364586434654868344e5851345a57497862435a6c634431324d56396e61575a7a58334e6c59584a6a61435a6a6444316e2f393737596573546a4e6651433776516970682f67697068792e676966" alt="Goku Powering Up" width="500"/>
 </p>
 
+---
+
+### 📊 GitHub Stats
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=born2achieve-ui&show_icons=true&theme=radical" width="420"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=born2achieve-ui&theme=radical" width="420"/>
+</div>
+
+---
+
+### 📈 Top Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=born2achieve-ui&layout=compact&theme=radical" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=born2achieve-ui&layout=compact&theme=radical" width="450"/>
 </p>
 
 ---
