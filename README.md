@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center" style="font-size:1.6rem;">Hi 👋, I'm Rakesh Pedapudi</h1>
-<h3 align="center" style="font-size:1.2rem;">A passionate AI & Full-Stack Engineer from India, building intelligent, scalable, and cloud-native solutions.</h3>
+<h3 align="center" style="font-size:1.2rem;">A passionate Developer from India.</h3>
 
 <!-- Profile Views -->
 <p align="center">
