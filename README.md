@@ -73,7 +73,4 @@
 
 ---
 
-### 🐍 Contribution Snake
-<p align="center">
-  <img src="https://github.com/Born2Achieve-UI/RakeshPedapudi/blob/output/snake.svg" alt="Snake animation" />
-</p>
+
