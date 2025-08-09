@@ -4,7 +4,7 @@
 
 <!-- Profile Views -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=born2achieve-ui&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=rakeshpedapudi07&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 <!-- <p align="center">
   <img src="https://github.com/rakeshpedapudi07/RakeshPedapudi/issues/1#issue-3303399547"alt="Coding Aggressively" width="300"/>
@@ -39,7 +39,7 @@
 
 ### 🛠 Languages & Tools
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,nodejs,express,java,python,c,cpp,mongodb,mysql,postgres,aws,git,figma,tensorflow,pytorch,opencv,django,bootstrap" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,nodejs,express,java,python,c,cpp,mongodb,mysql,postgres,aws,git,figma,unity,unrealengine,tensorflow,pytorch,opencv,django,bootstrap" />
 </p>
 
 ---
@@ -53,15 +53,15 @@
 
 ### 📊 GitHub Stats
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=born2achieve-ui&show_icons=true&theme=radical" width="420"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=born2achieve-ui&theme=radical" width="420"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rakeshpedapudi07&show_icons=true&theme=radical" width="425"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rakeshpedapudi07&theme=radical" width="450"/>
 </div>
 
 ---
 
 ### 📈 Top Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=born2achieve-ui&layout=compact&theme=radical" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rakeshpedapudi07&layout=compact&theme=radical" width="450"/>
 </p>
 
 ---
