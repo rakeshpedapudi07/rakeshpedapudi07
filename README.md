@@ -39,7 +39,7 @@
 
 ### 🛠 Languages & Tools
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,nodejs,express,java,python,c,cpp,mongodb,mysql,postgres,aws,git,figma,unity,unrealengine,tensorflow,pytorch,opencv,django,bootstrap" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,nodejs,express,java,python,c,cpp,mongodb,mysql,postgres,aws,git,figma,unity,unrealengine,tensorflow,pytorch,opencv,django,bootstrap,tailwind" />
 </p>
 
 ---
