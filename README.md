@@ -61,7 +61,7 @@
 
 ### 📈 Top Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rakeshpedapud07&layout=compact&theme=radical" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rakeshpedapudi07&layout=compact&theme=radical" width="450"/>
 </p>
 
 ---
