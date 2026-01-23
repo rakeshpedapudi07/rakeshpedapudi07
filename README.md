@@ -11,7 +11,7 @@
 </p> -->
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" alt="Coding Aggressively" width="300"/>
+  <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" alt="Coding Aggressively" width="400"/>
 </p>
 
 ---
@@ -46,7 +46,7 @@
 <!-- Goku GIF -->
 <!-- Goku GIF -->
 <p align="center">
-  <img src="https://private-user-images.githubusercontent.com/74038190/371756373-fddcdbcd-5ea2-4416-9f59-ca7fd9394aca.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjkxNzQxOTAsIm5iZiI6MTc2OTE3Mzg5MCwicGF0aCI6Ii83NDAzODE5MC8zNzE3NTYzNzMtZmRkY2RiY2QtNWVhMi00NDE2LTlmNTktY2E3ZmQ5Mzk0YWNhLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAxMjMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMTIzVDEzMTEzMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPThmYzRkNGM0YmIyZThmY2YzN2RhNGUwZGYxYTk5ODcyNjZjMWExYTE4YTJjMGY5YzM3NjQ5YmYwNWMzOTU4YTUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.hEod2R3JhllDwp55FYJATX16F5y0PQh1Tvas2NdHqZg" alt="Goku Powering Up" width="500"/>
+  <img src="https://private-user-images.githubusercontent.com/74038190/371756373-fddcdbcd-5ea2-4416-9f59-ca7fd9394aca.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjkxNzQxOTAsIm5iZiI6MTc2OTE3Mzg5MCwicGF0aCI6Ii83NDAzODE5MC8zNzE3NTYzNzMtZmRkY2RiY2QtNWVhMi00NDE2LTlmNTktY2E3ZmQ5Mzk0YWNhLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAxMjMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMTIzVDEzMTEzMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPThmYzRkNGM0YmIyZThmY2YzN2RhNGUwZGYxYTk5ODcyNjZjMWExYTE4YTJjMGY5YzM3NjQ5YmYwNWMzOTU4YTUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.hEod2R3JhllDwp55FYJATX16F5y0PQh1Tvas2NdHqZg" alt="Goku Powering Up" width="300"/>
 </p>
 
 ---
