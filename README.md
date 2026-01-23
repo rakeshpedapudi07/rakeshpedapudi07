@@ -11,7 +11,7 @@
 </p> -->
 
 <p align="center">
-  <img src="https://private-user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjkxNzQxOTAsIm5iZiI6MTc2OTE3Mzg5MCwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjU0NDAtODA3Mjg4MjAtZTA2Yi00Zjk2LTljOWUtOWRmNDZmMGNjMGE1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAxMjMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMTIzVDEzMTEzMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWU5ZWQ2YTQxYWZjZWMzZDk3ZTY3NzYyMGFmYzkwYjdlZmMwZGRlNjA2ZmUxNWJmZTY0YjVhYjU0NjYzMjFlYzkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.tQr2IQoCq6O6JgZc3TO64Yn0EAGTAB_IP-GV_sy5BVw" alt="Coding Aggressively" width="300"/>
+  <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" alt="Coding Aggressively" width="300"/>
 </p>
 
 ---
