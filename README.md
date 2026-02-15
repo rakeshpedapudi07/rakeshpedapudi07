@@ -63,11 +63,12 @@
 
 ---
 
-### 📈 Top Languages
+## 📊 GitHub Overview
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakeshpedapudi07&layout=compact&theme=radical" />
-</p>
+- 💻 1,000+ Contributions
+- 🚀 Active in AI, Backend & Cloud Projects
+- 🧠 Strong in DSA & System Design
+- 🔥 Consistently building real-world projects
 
 ---
 
