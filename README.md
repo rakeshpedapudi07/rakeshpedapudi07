@@ -52,23 +52,21 @@
 ---
 
 ### 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rakeshpedapudi07&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" height="170"/>
-  <img src="https://streak-stats.demolab.com?user=rakeshpedapudi07&theme=radical&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rakeshpedapudi07&show_icons=true&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=rakeshpedapudi07&theme=radical" />
 </p>
 
 ---
 
 ### 📈 Top Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakeshpedapudi07&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" height="170"/>
-</p>
 
----
-
-### 📈 Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rakeshpedapudi07&theme=react-dark&hide_border=true&area=true" width="100%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakeshpedapudi07&layout=compact&theme=radical" />
 </p>
 
 ---
