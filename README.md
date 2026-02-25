@@ -26,9 +26,10 @@
 - ⚡ Fun fact: *I enjoy building things that actually scale beyond localhost.*
 ---
 
-### 🌐 Connect with Me
+## 🌐 Connect with Me
 <p align="center">
 <a href="https://linkedin.com/in/rakeshpedapudi"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+<a href="https://github.com/rakeshpedapudi07"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" /></a>
 <a href="https://kaggle.com/rakeshpedapudi"><img src="https://img.shields.io/badge/Kaggle-white?style=for-the-badge&logo=kaggle" /></a>
 <a href="https://www.leetcode.com/rakesh_pedapudi"><img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode" /></a>
 <a href="https://auth.geeksforgeeks.org/user/rakeshpedapudi07"><img src="https://img.shields.io/badge/GeeksforGeeks-green?style=for-the-badge&logo=geeksforgeeks" /></a>
