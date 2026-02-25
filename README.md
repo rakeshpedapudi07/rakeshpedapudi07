@@ -37,11 +37,35 @@
 
 ---
 
-### 🛠 Languages & Tools
+### 🛠 Core Languages
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,nodejs,express,java,python,c,cpp,mongodb,mysql,postgres,aws,git,figma,unity,unrealengine,tensorflow,pytorch,opencv,django,bootstrap,tailwind" />
+<img src="https://skillicons.dev/icons?i=python,java,go,js,ts,sql" />
 </p>
 
+### ⚙ Backend & APIs
+<p align="center">
+<img src="https://skillicons.dev/icons?i=spring,fastapi,nodejs,express" />
+</p>
+
+### 🗄 Databases & Caching
+<p align="center">
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" />
+</p>
+
+### 🤖 AI / Machine Learning
+<p align="center">
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
+</p>
+
+### ☁ DevOps & Cloud
+<p align="center">
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,terraform,githubactions" />
+</p>
+
+### 📊 Monitoring & Tooling
+<p align="center">
+<img src="https://skillicons.dev/icons?i=prometheus,grafana,git,linux" />
+</p>
 ---
 <!-- Goku GIF -->
 <!-- Goku GIF -->
