@@ -17,14 +17,13 @@
 ---
 
 ### 🚀 About Me
-- 🔭 Working on **Gesture-Controlled AAA Game Interfaces**
-- 🌱 Learning **Salesforce, NLP, Agentic AI, Cloud-Native Development**
-- 👯 Open to collaborate on **AI-based Help Bots & Computer Vision Projects**
-- 🤝 Looking for help with **Advanced Agentic AI Development**
-- 💬 Ask me about **React, Java, Python, Node.js, AWS, OpenCV**
+- 🔭 Currently building **scalable full-stack and distributed backend systems**
+- 🌱 Exploring **Cloud-Native Development, System Design, and Modern Frontend Architectures**
+- 👯 Open to collaborating on **Full-Stack, Backend, AI/ML, and DevOps projects**
+- 🤝 Interested in contributing to **high-performance and production-grade systems**
+- 💬 Ask me about **React, Spring Boot, Node.js, Java, Python, Databases, and AWS**
 - 📫 Reach me: **rakeshpedapudi07@gmail.com**
-- ⚡ Fun fact: *I can build a face recognition app faster than instant noodles 🍜*
-
+- ⚡ Fun fact: *I enjoy optimizing systems until latency fears me.*
 ---
 
 ### 🌐 Connect with Me
