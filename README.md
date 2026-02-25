@@ -1,6 +1,9 @@
 <!-- Profile Header -->
-<h1 align="center" style="font-size:1.6rem;">Hi 👋, I'm Rakesh Pedapudi</h1>
-<h3 align="center" style="font-size:1.2rem;">A passionate Developer from India.</h3>
+<!-- Profile Header -->
+<h1 align="center">Rakesh Pedapudi</h1>
+<h3 align="center">
+Building systems that scale — from responsive UIs to high-performance distributed backends.
+</h3>
 
 <!-- Profile Views -->
 <p align="center">
