@@ -38,7 +38,7 @@
 ---
 ### 🚀 Tech Stack
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,go,js,ts,spring,fastapi,nodejs,express,postgres,mysql,mongodb,redis,pytorch,tensorflow,opencv,docker,kubernetes,aws,terraform,prometheus,grafana,githubactions,git,linux" />
+<img src="https://skillicons.dev/icons?i=python,java,go,c,cpp,js,ts,react,angular,nextjs,nodejs,express,spring,django,fastapi,postgres,mysql,mongodb,redis,docker,kubernetes,aws,terraform,githubactions,pytorch,tensorflow,opencv,git,linux,tailwind,bootstrap" />
 </p>
 ---
 <!-- Goku GIF -->
