@@ -23,7 +23,7 @@
 - 🤝 Interested in contributing to **high-performance and production-grade systems**
 - 💬 Ask me about **React, Spring Boot, Node.js, Java, Python, Databases, and AWS**
 - 📫 Reach me: **rakeshpedapudi07@gmail.com**
-- ⚡ Fun fact: *I enjoy optimizing systems until latency fears me.*
+- ⚡ Fun fact: *I enjoy building things that actually scale beyond localhost.*
 ---
 
 ### 🌐 Connect with Me
