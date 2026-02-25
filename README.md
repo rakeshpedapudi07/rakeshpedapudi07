@@ -32,8 +32,9 @@
 <a href="https://www.leetcode.com/rakesh_pedapudi"><img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode" /></a>
 <a href="https://auth.geeksforgeeks.org/user/rakeshpedapudi07"><img src="https://img.shields.io/badge/GeeksforGeeks-green?style=for-the-badge&logo=geeksforgeeks" /></a>
 <a href="https://kaggle.com/rakeshpedapudi"><img src="https://img.shields.io/badge/Kaggle-white?style=for-the-badge&logo=kaggle" /></a>
-<a href="mailto:rakeshpedapudi07@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" /></a>
-</p>
+<a href="mailto:rakeshpedapudi07@gmail.com?subject=Opportunity%20Inquiry&body=Hi%20Rakesh,%0A%0AI%20came%20across%20your%20profile...">
+<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
+</a>
 
 ---
 ### 🚀 Tech Stack
