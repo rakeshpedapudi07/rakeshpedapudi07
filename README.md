@@ -4,7 +4,6 @@
 <h3 align="center">
 Building systems that scale — from responsive UIs to high-performance distributed backends.
 </h3>
-  
 
 <!-- Profile Views -->
 <p align="center">
