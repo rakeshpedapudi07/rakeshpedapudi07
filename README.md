@@ -1,4 +1,4 @@
-<!-- Profile Header -->. 
+<!-- Profile Header -->
 <!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Rakesh Pedapudi</h1>
 <h3 align="center">
