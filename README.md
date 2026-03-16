@@ -20,7 +20,7 @@ Building systems that scale — from responsive UIs to high-performance distribu
 
 ### 🚀 About Me
 - 🔭 Currently building **scalable full-stack and distributed backend systems**
-- 🌱 Exploring **Cloud-Native Development, System Design, and Modern Frontend Architectures**
+- 🌱 Exploring **Cloud-Native Development, System Design, and Modern Frontend Architectures** 
 - 👯 Open to collaborating on **Full-Stack, Backend, AI/ML, and DevOps projects**
 - 🤝 Interested in contributing to **high-performance and production-grade systems**
 - 💬 Ask me about **React, Spring Boot, Node.js, Java, Python, Databases, and AWS**
