@@ -10,7 +10,7 @@ Building systems that scale — from responsive UIs to high-performance distribu
 </p>
 <!-- <p align="center">
   <img src="https://github.com/rakeshpedapudi07/RakeshPedapudi/issues/1#issue-3303399547"alt="Coding Aggressively" width="300"/>
-</p> -->
+</p> --> 
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" alt="Coding Aggressively" width="400"/>
