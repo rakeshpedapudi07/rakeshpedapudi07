@@ -18,13 +18,13 @@ Building systems that scale — from responsive UIs to high-performance distribu
 
 ---
 
-### 🚀 About Me
-- 🔭 Currently building **scalable full-stack and distributed backend systems**
-- 🌱 Exploring **Cloud-Native Development, System Design, and Modern Frontend Architectures** 
-- 👯 Open to collaborating on **Full-Stack, Backend, AI/ML, and DevOps projects**
-- 🤝 Interested in contributing to **high-performance and production-grade systems**
-- 💬 Ask me about **React, Spring Boot, Node.js, Java, Python, Databases, and AWS**
-- 📫 Reach me: **rakeshpedapudi07@gmail.com**
+###  About Me
+-  Currently building **scalable full-stack and distributed backend systems**
+-  Exploring **Cloud-Native Development, System Design, and Modern Frontend Architectures** 
+-  Open to collaborating on **Full-Stack, Backend, AI/ML, and DevOps projects**
+-  Interested in contributing to **high-performance and production-grade systems**
+-  Ask me about **React, Spring Boot, Node.js, Java, Python, Databases, and AWS**
+-  Reach me: **rakeshpedapudi07@gmail.com**
 - ⚡ Fun fact: *I enjoy building things that actually scale beyond localhost.*
 ---
 
@@ -39,7 +39,7 @@ Building systems that scale — from responsive UIs to high-performance distribu
 </a>
 
 ---
-### 🚀 Tech Stack
+###  Tech Stack
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,java,go,c,cpp,js,ts,react,angular,nextjs,nodejs,express,spring,django,fastapi,postgres,mysql,mongodb,redis,docker,kubernetes,aws,terraform,githubactions,pytorch,tensorflow,opencv,git,linux,tailwind,bootstrap" />
 </p>
@@ -52,19 +52,21 @@ Building systems that scale — from responsive UIs to high-performance distribu
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 <!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rakeshpedapudi07&show_icons=true&theme=radical" />
 </p> -->
-  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rakeshpedapudi07&show_icons=true&theme=radical" />
+</p>
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=rakeshpedapudi07&theme=radical" />
 </p>
 
 ---
 
-## 📊 GitHub Overview
+##  GitHub Overview
 
 - 💻 1,000+ Contributions
 - 🚀 Active in AI, Backend & Cloud Projects
