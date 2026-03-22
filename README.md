@@ -68,10 +68,10 @@ Building systems that scale — from responsive UIs to high-performance distribu
 
 ##  GitHub Overview
 
-- 💻 1,000+ Contributions
-- 🚀 Active in AI, Backend & Cloud Projects
-- 🧠 Strong in DSA & System Design
-- 🔥 Consistently building real-world projects
+-  1,000+ Contributions
+-  Active in AI, Backend & Cloud Projects
+-  Strong in DSA & System Design
+-  Consistently building real-world projects
 
 ---
 
