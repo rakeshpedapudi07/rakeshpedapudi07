@@ -8,7 +8,7 @@ Building systems that scale — from responsive UIs to high-performance distribu
 <p align="center">    
   <img src="https://komarev.com/ghpvc/?username=rakeshpedapudi07&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />  
 </p>
-<!-- <p align="center">
+<!-- <p align="center"> 
   <img src="https://github.com/rakeshpedapudi07/RakeshPedapudi/issues/1#issue-3303399547"alt="Coding Aggressively" width="300"/>
 </p> --> 
 
