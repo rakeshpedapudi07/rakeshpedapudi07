@@ -2,7 +2,7 @@
 <!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Rakesh Pedapudi</h1>    
 <h3 align="center">    
-Building systems that scale — from responsive UIs to high-performance distributed backends. 
+Building systems that scale — from responsive UIs to high-performance distributed backends.  
 </h3>
 <!-- Profile Views -->    
 <p align="center">    
