@@ -87,15 +87,14 @@ Software Engineer · Distributed Systems · AI/ML Systems
 <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
 </a>
 
-<a href="https://leetcode.com/u/rakesh_pedapudi/">
-<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge"/>
+<a href="https://x.com/Rakesh_AIML">
+<img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=twitter"/>
 </a>
 
-<a href="https://codeforces.com/profile/rakeshpedapudi07">
-<img src="https://img.shields.io/badge/Codeforces-blue?style=for-the-badge"/>
+<a href="https://discord.com/users/YOUR_DISCORD_ID">
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
 </p>
-
 ---
 
 ##  Tech Stack
