@@ -91,7 +91,7 @@ Software Engineer · Distributed Systems · AI/ML Systems
 <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=twitter"/>
 </a>
 
-<a href="https://discord.com/users/YOUR_DISCORD_ID">
+<a href="https://discord.com/users/1392504285014528010">
 <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
 </p>
