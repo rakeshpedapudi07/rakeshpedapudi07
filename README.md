@@ -20,8 +20,8 @@ Software Engineer · Distributed Systems · AI/ML Systems
 
 ## 🚀 About Me
 
-- 🧠 Backend-focused engineer specializing in **distributed systems & high-performance APIs**
-- ⚙️ Built systems handling **1000+ concurrent users with 85% latency reduction**
+- 🧠 Backend engineer focused on **distributed systems and high-performance APIs**
+- ⚙️ Built systems handling **1000+ concurrent users (real-time + load tested) with 85% latency reduction**
 - 🤖 Developing **production-grade AI systems (RAG, LLM pipelines, ML APIs)**
 - ☁️ Hands-on with **AWS, Docker, Kubernetes, and scalable infrastructure**
 - 🧩 Strong in **DSA, System Design, and performance optimization**
@@ -43,7 +43,7 @@ Software Engineer · Distributed Systems · AI/ML Systems
 ### 🔹 Scalable Backend System (Spring Boot + Redis)
 🔗 [GitHub Repo](https://github.com/rakeshpedapudi07/scalable-backend)
 
-- Handled **1000+ concurrent requests**
+- Handled **1000+ concurrent requests (load tested)**
 - Reduced latency **800ms → 120ms**
 - Implemented **JWT authentication + RBAC + caching**
 
@@ -113,6 +113,24 @@ Software Engineer · Distributed Systems · AI/ML Systems
 - High-Concurrency Backend Systems  
 - AI/ML Production Pipelines  
 - Performance Optimization & Caching  
+
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rakeshpedapudi07&show_icons=true&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=rakeshpedapudi07&theme=radical" />
+</p>
+
+---
+
+## 📄 Resume
+
+🔗 [View Resume](YOUR_RESUME_LINK_HERE)
 
 ---
 
