@@ -68,7 +68,7 @@ Software Engineer · Distributed Systems · AI/ML Systems
 ---
 
 ### 🔹 RL-Based Email Triage System
-🔗 [Live Demo](https://rakeshpedapudi07-email-triage-openenv.hf.space) | [Repo](https://github.com/rakeshpedapudi07/email-triage-openenv)
+🔗 [Live Demo](https://rakeshpedapudi07-email-triage-openenv.hf.space/dashboard) | [Repo](https://github.com/rakeshpedapudi07/email-triage-openenv)
 
 - Designed **reward-based decision system (FSM + RL)**
 - Integrated **LLM agents with FastAPI backend**
