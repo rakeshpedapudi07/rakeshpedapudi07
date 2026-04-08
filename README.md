@@ -120,8 +120,7 @@ Software Engineer · Distributed Systems · AI/ML Systems
 ##  GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rakeshpedapudi07&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400" height="150"/>
-  <img src="https://streak-stats.demolab.com?user=rakeshpedapudi07&theme=radical&hide_border=true&cache_seconds=86400" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=rakeshpedapudi07&theme=radical&hide_border=true&cache_seconds=86400" height="250"/>
 </p>
 
 ---
