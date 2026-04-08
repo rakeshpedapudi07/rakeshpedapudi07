@@ -5,7 +5,7 @@ Software Engineer · Distributed Systems · AI/ML Systems
 </h3>
 
 <p align="center">
-🚀 I don’t just build projects — I engineer systems that scale.
+ I don’t just build projects — I engineer systems that scale.
 </p>
 
 <p align="center">
@@ -18,23 +18,23 @@ Software Engineer · Distributed Systems · AI/ML Systems
 
 ---
 
-## 🚀 About Me
+##  About Me
 
-- 🧠 Backend engineer focused on **distributed systems and high-performance APIs**
-- ⚙️ Built systems handling **1000+ concurrent users (real-time + load tested) with 85% latency reduction**
-- 🤖 Developing **production-grade AI systems (RAG, LLM pipelines, ML APIs)**
-- ☁️ Hands-on with **AWS, Docker, Kubernetes, and scalable infrastructure**
-- 🧩 Strong in **DSA, System Design, and performance optimization**
-- 📈 Solved **300+ problems across LeetCode, Codeforces, HackerRank**
+-  Backend engineer focused on **distributed systems and high-performance APIs**
+-  Built systems handling **1000+ concurrent users (real-time + load tested) with 85% latency reduction**
+-  Developing **production-grade AI systems (RAG, LLM pipelines, ML APIs)**
+-  Hands-on with **AWS, Docker, Kubernetes, and scalable infrastructure**
+-  Strong in **DSA, System Design, and performance optimization**
+-  Solved **300+ problems across LeetCode, Codeforces, HackerRank**
 
 ---
 
-## 🧠 What Sets Me Apart
+##  What Sets Me Apart
 
-- ⚡ I focus on **performance-first engineering**
-- 🏗️ I think in **systems, not just features**
-- 🚀 I build **production-ready solutions**, not prototypes
-- 🔍 I optimize for **scalability, latency, and real-world usage**
+-  I focus on **performance-first engineering**
+-  I think in **systems, not just features**
+-  I build **production-ready solutions**, not prototypes
+-  I optimize for **scalability, latency, and real-world usage**
 
 ---
 
@@ -98,7 +98,7 @@ Software Engineer · Distributed Systems · AI/ML Systems
 
 ---
 
-## 🧠 Tech Stack
+##  Tech Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,react,nextjs,nodejs,express,spring,fastapi,postgres,mongodb,redis,docker,kubernetes,aws,terraform,pytorch,tensorflow,git,linux,tailwind" />
@@ -116,7 +116,7 @@ Software Engineer · Distributed Systems · AI/ML Systems
 
 ---
 
-## 📊 GitHub Activity
+##  GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rakeshpedapudi07&show_icons=true&theme=radical" />
@@ -125,12 +125,6 @@ Software Engineer · Distributed Systems · AI/ML Systems
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=rakeshpedapudi07&theme=radical" />
 </p>
-
----
-
-## 📄 Resume
-
-🔗 [View Resume](YOUR_RESUME_LINK_HERE)
 
 ---
 
