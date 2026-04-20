@@ -4,7 +4,7 @@
 Software Engineer · Distributed Systems · AI/ML Systems      
 </h3>     
    
-<p align="center">    
+<p align="center">      
  I don’t just build projects — I engineer systems that scale.    
 </p>
   
