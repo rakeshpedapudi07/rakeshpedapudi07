@@ -1,7 +1,7 @@
 <!-- HEADER -->
 <h1 align="center">Hi 👋, I'm Rakesh Pedapudi</h1>
 <h3 align="center">
-Software Engineer · Distributed Systems · AI/ML Systems           
+Software Engineer · Distributed Systems · AI/ML Systems 
 </h3>
 <p align="center"> 
  I don’t just build projects — I engineer systems that scale.  
