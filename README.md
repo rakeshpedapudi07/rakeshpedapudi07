@@ -26,7 +26,7 @@ Software Engineer · Distributed Systems · AI/ML Systems
 -  Solved **300+ problems across LeetCode, Codeforces, HackerRank**
 
 ---
-
+ 
 ##  What Sets Me Apart
 
 -  I focus on **performance-first engineering**
