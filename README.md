@@ -34,7 +34,7 @@ Software Engineer · Distributed Systems · AI/ML Systems
 -  I build **production-ready solutions**, not prototypes
 -  I optimize for **scalability, latency, and real-world usage**
 
----
+---      
 
 ## 🏆 Featured Systems
 
