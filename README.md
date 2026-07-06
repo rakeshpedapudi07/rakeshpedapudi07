@@ -84,7 +84,7 @@ Software Engineer · Distributed Systems · AI/ML Systems
 <a href="mailto:rakeshpedapudi07@gmail.com">
 <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
 </a>
-
+       
 <a href="https://x.com/Rakesh_AIML">
 <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=twitter"/>
 </a>
