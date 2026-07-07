@@ -5,7 +5,7 @@ Software Engineer · Distributed Systems · AI/ML Systems
 </h3>      
 <p align="center">        
  I don’t just build projects — I engineer systems that scale.   
-</p>  
+</p>      
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=rakeshpedapudi07&label=Profile%20views&color=0e75b6&style=flat" />  
