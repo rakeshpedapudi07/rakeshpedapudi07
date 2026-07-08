@@ -17,7 +17,7 @@ Software Engineer · Distributed Systems · AI/ML Systems
 ---     
   
 ##  About Me         
-
+        
 -  Backend engineer focused on **distributed systems and high-performance APIs**
 -  Built systems handling **1000+ concurrent users (real-time + load tested) with 85% latency reduction**
 -  Developing **production-grade AI systems (RAG, LLM pipelines, ML APIs)**
