@@ -58,7 +58,7 @@ Software Engineer · Distributed Systems · AI/ML Systems
 
 ### 🔹 Hybrid RAG System (LLM + Pinecone)
 🔗 [Repo](https://github.com/rakeshpedapudi07/hybrid-rag-qa-system)
-
+     
 - Processed **10K+ documents**
 - Improved retrieval precision by **40%**
 - Built **scalable retrieval + generation pipeline**
