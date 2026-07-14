@@ -36,7 +36,7 @@ Software Engineer · Distributed Systems · AI/ML Systems
 
 ---      
 
-## 🏆 Featured Systems
+## 🏆 Featured Systems       
      
 ### 🔹 Scalable Backend System (Spring Boot + Redis)
 🔗 [GitHub Repo](https://github.com/rakeshpedapudi07/scalable-backend)
