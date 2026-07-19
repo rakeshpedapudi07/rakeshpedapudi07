@@ -10,7 +10,7 @@ Software Engineer · Distributed Systems · AI/ML Systems
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=rakeshpedapudi07&label=Profile%20views&color=0e75b6&style=flat" />  
 </p>
-  
+     
 <p align="center">      
   <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="400"/>
 </p>  
@@ -67,7 +67,7 @@ Software Engineer · Distributed Systems · AI/ML Systems
 
 ### 🔹 RL-Based Email Triage System
 🔗 [Live Demo](https://rakeshpedapudi07-email-triage-openenv.hf.space/dashboard) | [Repo](https://github.com/rakeshpedapudi07/email-triage-openenv)
-
+      
 - Designed **reward-based decision system (FSM + RL)**
 - Integrated **LLM agents with FastAPI backend**
 - Built **OpenEnv-compliant environment**
