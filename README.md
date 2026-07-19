@@ -42,7 +42,7 @@ Software Engineer · Distributed Systems · AI/ML Systems
 🔗 [GitHub Repo](https://github.com/rakeshpedapudi07/scalable-backend)
 
 - Handled **1000+ concurrent requests (load tested)**
-- Reduced latency **800ms → 120ms**
+- Reduced latency **800ms → 120ms**    
 - Implemented **JWT authentication + RBAC + caching**
 
 ---  
