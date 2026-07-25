@@ -44,7 +44,7 @@ Software Engineer · Distributed Systems · AI/ML Systems
 - Handled **1000+ concurrent requests (load tested)**
 - Reduced latency **800ms → 120ms**    
 - Implemented **JWT authentication + RBAC + caching**
-
+    
 ---  
      
 ### 🔹 ML Inference API (FastAPI + Docker + AWS)
