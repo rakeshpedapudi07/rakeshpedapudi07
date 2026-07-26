@@ -21,7 +21,7 @@ Software Engineer · Distributed Systems · AI/ML Systems
 -  Backend engineer focused on **distributed systems and high-performance APIs**
 -  Built systems handling **1000+ concurrent users (real-time + load tested) with 85% latency reduction**
 -  Developing **production-grade AI systems (RAG, LLM pipelines, ML APIs)**
--  Hands-on with **AWS, Docker, Kubernetes, and scalable infrastructure**
+-  Hands-on with **AWS, Docker, Kubernetes, and scalable infrastructure**     
 -  Strong in **DSA, System Design, and performance optimization**
 -  Solved **300+ problems across LeetCode, Codeforces, HackerRank**
 
