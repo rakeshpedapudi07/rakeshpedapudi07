@@ -53,7 +53,7 @@ Software Engineer · Distributed Systems · AI/ML Systems
 - Processed **50K+ data points**
 - Achieved **92% accuracy**
 - <100ms latency at **500+ requests/min**
-
+    
 ---
 
 ### 🔹 Hybrid RAG System (LLM + Pinecone)
