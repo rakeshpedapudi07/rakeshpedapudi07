@@ -23,7 +23,7 @@ Software Engineer · Distributed Systems · AI/ML Systems
 -  Developing **production-grade AI systems (RAG, LLM pipelines, ML APIs)**
 -  Hands-on with **AWS, Docker, Kubernetes, and scalable infrastructure**     
 -  Strong in **DSA, System Design, and performance optimization**
--  Solved **300+ problems across LeetCode, Codeforces, HackerRank**
+-  Solved **300+ problems across LeetCode, Codeforces, HackerRank**   
 
 ---
          
