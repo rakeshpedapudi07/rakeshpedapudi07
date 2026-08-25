@@ -28,7 +28,7 @@ Software Engineer · Distributed Systems · AI/ML Systems
 ---
          
 ##  What Sets Me Apart
-
+    
 -  I focus on **performance-first engineering**
 -  I think in **systems, not just features**
 -  I build **production-ready solutions**, not prototypes
